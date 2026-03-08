@@ -1,4 +1,4 @@
-#  Combined program: Shows notification and plays text-to-speech reminder every 2 hours from plyer
+# Shows notification and plays text-to-speech reminder every 2 hours from plyer
 from plyer import notification
 import win32com.client as wincl
 import time
